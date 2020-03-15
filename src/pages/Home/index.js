@@ -17,7 +17,7 @@ export default ({ history }) => {
     setSearchText(event.target.value);
   };
   const handleCleanTextClick = event => {
-    console.log("clean");
+    setSearchText("");
   };
   const handleSearchTextClick = event => {
     history.push(`/results?movieName=${searchText}`);
