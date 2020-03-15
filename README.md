@@ -1,6 +1,6 @@
-#Basic React project
+# Basic React project
 
-Learning ReactJS with Hooks, Router, Redux, Axios, Material UI
+### Learning ReactJS with Hooks, Router, Redux, Axios, Material UI
 
 Search movies information using the OMDb API (IMDb),
 Using Material UI components, using Redux Saga, Routes, Axios.
